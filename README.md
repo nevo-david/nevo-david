@@ -9,7 +9,7 @@ My Stack is mainly JS
 - - Mongodb
 - - Redis
 - - Elastic Search
-- Neo4j
+- - Neo4j
 - React (Typescript)
 - - Styled Components
 - - Material UI
