@@ -1,6 +1,6 @@
 🔥 My name is Nevo I am a full-stack developer for the last decade.
 
-🙏🏻 I love coding and spending my time writing open-source code.
+🙏🏻 I love coding and spending my time writing open-source code and blogging about it.
 
 My Stack is mainly JS
 
