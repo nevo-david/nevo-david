@@ -23,4 +23,4 @@ My Stack is mainly JS
 🙃 Do you want me to contribute to your project? Email me at: nevo@novu.co
 
 
-[![](https://nevos.io/wp-content/uploads/2022/04/subscribe-1.png)](https://www.getrevue.co/profile/nevodavid?via=twitter-profile)
+[![](https://nevos.io/wp-content/uploads/2022/04/subscribe-1.png)](https://www.getrevue.co/profile/nevodavid?via=github-profile)
