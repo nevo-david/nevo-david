@@ -31,7 +31,7 @@ My Stack is mainly JS
 </div>
 
 <div align="center">
-  <a href="https://github.com/novuhq/novu">
+    
     ![Logo Light](https://user-images.githubusercontent.com/8872447/165779274-22a190da-3284-487e-bd1e-14983df12cbb.png#gh-light-mode-only)
-  </a>
+
 </div>
