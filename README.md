@@ -24,4 +24,4 @@ My Stack is mainly JS
 
 
 
-[![Novu](https://user-images.githubusercontent.com/8872447/165779319-34962ccc-3149-466c-b1da-97fd93254520.png)(https://github.com/novuhq/novu)]
+[![Novu](https://user-images.githubusercontent.com/8872447/165779319-34962ccc-3149-466c-b1da-97fd93254520.png)](https://github.com/novuhq/novu)
