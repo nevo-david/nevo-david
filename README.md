@@ -23,4 +23,15 @@ My Stack is mainly JS
 🙃 Do you want me to contribute to your project? Email me at: nevo@novu.co
 
 
-[![](https://nevos.io/wp-content/uploads/2022/04/subscribe-1.png)](https://www.getrevue.co/profile/nevodavid?via=github-profile)
+
+<div align="center">
+  <a href="https://github.com/novuhq/novu">
+    ![Logo Dark](https://user-images.githubusercontent.com/8872447/165779319-34962ccc-3149-466c-b1da-97fd93254520.png#gh-dark-mode-only)
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/novuhq/novu">
+    ![Logo Light](https://user-images.githubusercontent.com/8872447/165779274-22a190da-3284-487e-bd1e-14983df12cbb.png#gh-light-mode-only)
+  </a>
+</div>
