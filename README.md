@@ -25,9 +25,9 @@ My Stack is mainly JS
 
 
 <div align="center">
-  <a href="https://github.com/novuhq/novu">
+
     ![Logo Dark](https://user-images.githubusercontent.com/8872447/165779319-34962ccc-3149-466c-b1da-97fd93254520.png#gh-dark-mode-only)
-  </a>
+
 </div>
 
 <div align="center">
