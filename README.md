@@ -38,9 +38,15 @@ Feel free also to like and star my repository: [Super-Star](https://github.com/g
 
 https://github.com/github-20k/super-star
 
-<a href="https://github.com/github-20k/super-star" target="_blank">
-  <img src="https://user-images.githubusercontent.com/100117126/232179431-20cc9660-be32-406c-8c84-cc1207188a9e.png" width="400" />
-</a>
+<div>
+  <a href="https://github.com/github-20k/super-star" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/100117126/232226249-ec03f335-195a-41a7-a710-3a5ed412387b.png">
+    <img src="https://user-images.githubusercontent.com/100117126/232226239-cc7259b3-98fa-4394-8f48-7a5cf73f0da3.png" width="700" alt="Logo"/>
+  </picture>
+  </a>
+</div>
+
 
 <br />
 <br />
