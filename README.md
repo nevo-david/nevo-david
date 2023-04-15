@@ -1,27 +1,44 @@
-🔥 My name is Nevo I am a full-stack developer for the last decade.
+## Welcome
 
-🙏🏻 I love coding and spending my time writing open-source code and blogging about it.
+My name is Nevo I am a full-stack / team leader developer for the last 10 years 🙇🏻‍♂️
 
-My Stack is mainly JS
+I work at **Novu** - the open-source notification infrastructure for developers and love every moment of it.
 
-- Node.js (Nest.js - Typescript).
-- - Mysql
-- - Mongodb
-- - Redis
-- - Elastic Search
-- - Neo4j
-- React (Typescript)
-- - Styled Components
-- - Material UI
-- - Redux.
-- Devops
-- - AWS (SQS, LAMBDAS, RDS, Elastic Beanstalked And many more...)
-- - Jenkins
-- - CircleCI,
-- - Puppteer / Cypress.
+Novu helps you send notifications in different ways like In-App messages, Push notifications, Email, SMS, and Chat in a single unified API.
+It lets you customize how your notifications work and when they are sent, so you can make sure they reach people in the best way possible.
 
-🙃 Do you want me to contribute to your project? Email me at: nevo@novu.co
+https://github.com/novuhq/novu/
+
+<br />
+<br />
+
+<a href="https://github.com/novuhq/novu/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/2233092/213641039-220ac15f-f367-4d13-9eaf-56e79433b8c1.png" width="400" />
+</a>
+
+<br />
+<br />
+
+## Growing Novu to 20K stars
+Lately Novu achieved 20k stars.
+
+What usually takes companies around 3-4 years, [we have made with one](https://star-history.com/#novuhq/novu&Date).
 
 
+**I love how open-source projects grow.**
 
-[![Novu](https://user-images.githubusercontent.com/8872447/165779319-34962ccc-3149-466c-b1da-97fd93254520.png)](https://github.com/novuhq/novu)
+And I tend to write about it in my [GitHub20k Blog](https://www.github20k.com/blog)
+
+Feel free also to like and star my repository: [Super-Star](https://github.com/github-20k/super-star) an open-source course you can use for you needs.
+
+https://github.com/github-20k/super-star
+
+<a href="https://github.com/github-20k/super-star" target="_blank">
+  <img src="https://user-images.githubusercontent.com/100117126/232179431-20cc9660-be32-406c-8c84-cc1207188a9e.png" width="400" />
+</a>
+
+<br />
+<br />
+<br />
+
+
