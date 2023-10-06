@@ -1,29 +1,11 @@
 ## Welcome
 
-My name is Nevo I am a full-stack / team leader developer for the last 10 years 🙇🏻‍♂️
+My name is Nevo. I have been a full-stack/team leader developer for the last ten years 🙇🏻‍♂️
 
-I work at **Novu** - the open-source notification infrastructure for developers and love every moment of it.
-
-Novu helps you send notifications in different ways like In-App messages, Push notifications, Email, SMS, and Chat in a single unified API.
-It lets you customize how your notifications work and when they are sent, so you can make sure they reach people in the best way possible.
-
-https://github.com/novuhq/novu/
-
-<br />
-<br />
-
-<div>
-  <a href="https://github.com/novuhq/novu/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/2233092/213641039-220ac15f-f367-4d13-9eaf-56e79433b8c1.png">
-    <img src="https://user-images.githubusercontent.com/2233092/213641043-3bbb3f21-3c53-4e67-afe5-755aeb222159.png" width="400" alt="Logo"/>
-  </picture>
-  </a>
-</div>
-
-
-<br />
-<br />
-<br />
-
+You might know me for a few things:
+ 
+- 📳 Head of growth at [Novu](https://github.com/novuhq/novu/) (took Novu from 0 to 30k stars.)
+- 📰 Running [GitHub20k](https://www.github20k.com/) is the place to learn about open-source growth.
+- 👩‍👩‍👧‍👦 Running [HackSquad](https://hacksquad.dev/), the second biggest event of October with 10k+ participants.
+- 👍🏻 Building [ClickVote](https://clickvote.dev/) in my spare time as a hobby project - Give likes, upvotes, and reviews to any context!
 
