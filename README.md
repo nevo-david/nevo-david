@@ -12,6 +12,6 @@ You might know me for a few things:
 
 ---
 
-[![MeetFAQ](https://github.com/nevo-david/nevo-david/assets/100117126/9e08e8e5-43fc-4c06-8ed6-bbdf6c39a153)](https://github.com/github-20k/meetfaq)
+[![MeetFAQ](https://github.com/nevo-david/nevo-david/assets/100117126/3853b2a4-8bd9-4701-9ab0-36696c3f764f)](https://github.com/github-20k/crosspublic)
 
 
